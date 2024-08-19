@@ -95,10 +95,6 @@ Here’s how to use the File Integrity Checker in a Python script:
 
 Contributions are welcome! Please feel free to submit a Pull Request with any improvements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Contact
 
-For any questions or suggestions, please open an issue or contact the project maintainer at (mailto:gabriel.domingues.silva@usp.br).
+For any questions or suggestions, please open an issue or contact the project maintainer at (gabriel.domingues.silva@usp.br).
