@@ -101,4 +101,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-For any questions or suggestions, please open an issue or contact the project maintainer at [your.email@example.com](mailto:your.email@example.com).
+For any questions or suggestions, please open an issue or contact the project maintainer at (mailto:gabriel.domingues.silva@usp.br).
